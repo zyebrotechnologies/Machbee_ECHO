@@ -1,0 +1,6 @@
+moviepy
+openai-whisper
+transformers
+torch
+gtts
+ffmpeg-python
